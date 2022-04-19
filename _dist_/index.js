@@ -38,7 +38,7 @@ window
       price.textContent = formatPrice(item.price);
 
       const container = document.createElement("div");
-      
+
       container.className = "box-content h-55 w-42 p-4 border-4 my-9";
 
       container.append(image, title, price);
