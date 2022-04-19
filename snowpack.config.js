@@ -4,5 +4,9 @@ module.exports = {
     public: '/',
     src: '/_dist_',
   },
- 
-}
+  
+    buildOptions: {
+      baseUrl: 'https://oen844.github.io/workshop-1-fech/',
+    },
+  }
+
