@@ -4,7 +4,5 @@ module.exports = {
     public: '/',
     src: '/_dist_',
   },
-  buildOptions: {
-    baseUrl: '',
-  },
+ 
 }
