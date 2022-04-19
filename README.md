@@ -75,6 +75,15 @@ You will also see any lint errors in the console.
 Builds a static copy of your site to the `build/` folder.
 Your app is ready to be deployed!
 
+## Screenshots
+
+![App Screenshot](https://i.imgur.com/XGs92IM.png)
+![App Screenshot](https://i.imgur.com/dq9FBZ1.png)
+
+## Deploy in github-pages
+
+ - [Link a la web](https://oen844.github.io/workshop-1-fech/)
+
 **For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/master/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.json` config file.
 
 ### Q: What about Eject?
